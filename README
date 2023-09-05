@@ -1,0 +1,5 @@
+This simulation is comprised of several parts, all created by AI. To use the simulation, you should run the CSVGenerator.exe script, then run the Simulation.exe script. The script will prompt you which algorithm you wish to use, and will output the data as a csv file, so you can see the result.
+
+The CSVGenerator can be modified to create processes that add up to different lengths of time, with different min and max values for each attribute.
+
+The Simulation script takes in a processes.csv file (which can be made via the generator or manually) and then outputs a csv file based on the algorithm used with the performance criteria
